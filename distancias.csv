@@ -1,0 +1,15 @@
+Origem,Destino,Distancia
+A,B,10
+A,C,8
+A,D,12
+B,C,8
+B,E,5
+C,E,8
+C,G,12
+D,C,7
+D,G,10
+E,F,5
+E,Z,7
+F,Z,15
+G,F,11
+G,Z,8
